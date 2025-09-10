@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\total\Desktop\BTP200\Assignments\ConsoleApp 01\Lectures\main.cpp(46,6): warning C4101: 'x': unreferenced local variable
+C:\Users\total\Desktop\BTP200\Assignments\ConsoleApp 01\Lectures\main.cpp(49,10): warning C4101: 'y': unreferenced local variable
+C:\Users\total\Desktop\BTP200\Assignments\ConsoleApp 01\Lectures\main.cpp(55,7): warning C4101: 'm': unreferenced local variable
+C:\Users\total\Desktop\BTP200\Assignments\ConsoleApp 01\Lectures\main.cpp(59,10): warning C4101: 'b': unreferenced local variable
+  Lectures.vcxproj -> C:\Users\total\Desktop\BTP200\Assignments\ConsoleApp 01\x64\Debug\Lectures.exe
