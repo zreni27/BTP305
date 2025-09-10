@@ -1,0 +1,4 @@
+﻿  FoodOrder.cpp
+C:\Users\total\Desktop\BTP305\Exercises\Exercise 01\FoodOrder.cpp(33,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\total\Desktop\BTP305\Exercises\Exercise 01\FoodOrder.cpp(38,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercise 01.vcxproj -> C:\Users\total\Desktop\BTP305\Exercises\x64\Debug\Exercise 01.exe

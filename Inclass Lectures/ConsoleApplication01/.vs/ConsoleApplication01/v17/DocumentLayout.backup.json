@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|solutionrelative:moduleB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|solutionrelative:moduleA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|solutionrelative:moduleB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{486F91F2-43AE-4054-BB60-1D1583F1F726}|ConsoleApplication01.vcxproj|solutionrelative:moduleA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "moduleB.h",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.h",
+              "RelativeDocumentMoniker": "moduleB.h",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.h",
+              "RelativeToolTip": "moduleB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-03T16:54:29.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "moduleA.h",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.h",
+              "RelativeDocumentMoniker": "moduleA.h",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.h",
+              "RelativeToolTip": "moduleA.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-03T16:54:18.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T16:43:25.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moduleA.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.cpp",
+              "RelativeDocumentMoniker": "moduleA.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleA.cpp",
+              "RelativeToolTip": "moduleA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T16:46:34.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "moduleB.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.cpp",
+              "RelativeDocumentMoniker": "moduleB.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Lectures\\ConsoleApplication01\\moduleB.cpp",
+              "RelativeToolTip": "moduleB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T16:46:46.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
