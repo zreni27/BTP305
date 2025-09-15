@@ -1,72 +1,38 @@
 #include <iostream>
 
-// rule-of-three - cc, ca, des
-// rule-of-5 - cc, ca, des, move constructor, move assignment operator
+void print(int& data);
 
-class MyArray {
-	int* elements;
-	int size;
-public:
-	MyArray() { elements = nullptr; size = 0; }
-	MyArray(const int* data, int psize) {
-		if (data && size > 0) {
-			size = psize;
-			elements = new int[size];
-			for (int i = 0; i < size; i++)
-				elements[i] = data[i];
-		}
-		else {
-			elements = nullptr;
-			size = 0;
-		}
-	}
-
-	//Copy Constructor
-	MyArray(const MyArray& ma) {
-		*this = ma;
-	}
-
-	// Copy assignment operator
-	MyArray& operator=(const MyArray& ma) {
-		if (this != &ma) {
-			delete[] elements;
-			elements = nullptr;
-			size = 0;
-			if (ma.elements && ma.size > 0) {
-				size = ma.size;
-				for (int i = 0; i < size; i++)
-					elements[i] = ma.elements[i];
-			}
-		}
-		return *this;
-	}
-
-	// Move Constructor
-		MyArray(MyArray&& ma) {
-		**this = std::move(ma);
-	}
-
-	// Move assignment operator
-	MyArray& operator=(MyArray&& ma) { // && for rvalue reference
-		if (this != &ma) {
-			delete[] elements;
-			elements = ma.elements; // moving the resource
-			size = ma.size;
-
-			ma.elements = nullptr; // setting to default state
-			ma.size = 0;
-			}
-		return *this;
-	}
-
-	~MyArray() {
-		delete[] elements;
-	}
-};
+void print(int&& data);
+// lvalue and rvalue reference
 int main() {
-	int numbers[]{ 2,4,5,6,9,12,23 };
-	MyArray ma(numbers, 7);
+	int x = 5;
+	int& xr = x;
+	// temporary - persistant
+	// rvalue expression 
 
+	++x = 56; // ++x is lvalue expression
+	//x++ = 65; // prvalue expression (x++), a type of rvalue expression
+
+	int&& xrr = x++; // rvalue reference to refer to rvalue expression
+	xrr = 78;
+
+	int& xrr2 = x + 5;
+	
+	print(xr);
+	print(xrr);
+	print(+x);
+	print(x++);
+	print(std::move(x));
 
 	return 0;
+}
+
+void print(int& data) { // function 1
+	std::cout << "data: " << data << std::endl;
+}
+
+void print(int&& data) { // function 2
+	// data is rvalue reference to a rvalue expression
+	print(data); // which function does this call
+	std::cout << "{" << data << "}" << endl;
 }

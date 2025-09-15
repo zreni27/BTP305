@@ -3,16 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|solutionrelative:Exercise 01\\FoodOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|solutionrelative:Exercise 02\\TimedTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|solutionrelative:Exercise 01\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|solutionrelative:Exercise 02\\ProteinDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F6C47A7-D6D2-47E7-B733-65CA328AF8AF}|Exercise 01\\Exercise 01.vcxproj|solutionrelative:Exercise 01\\FoodOrder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|solutionrelative:Exercise 02\\TimedTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|solutionrelative:Exercise 02\\ProteinDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\total\\Desktop\\BTP305\\Inclass Lectures\\Week 02\\main_copy_move_part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A368918-C832-4665-ADA1-0C369C23FE64}|Exercise 02\\Exercise 02.vcxproj|solutionrelative:Exercise 02\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +33,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FoodOrder.cpp",
-              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.cpp",
-              "RelativeDocumentMoniker": "Exercise 01\\FoodOrder.cpp",
-              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.cpp",
-              "RelativeToolTip": "Exercise 01\\FoodOrder.cpp",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "tester_1.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\tester_1.cpp",
+              "RelativeDocumentMoniker": "Exercise 02\\tester_1.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\tester_1.cpp",
+              "RelativeToolTip": "Exercise 02\\tester_1.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T21:27:01.286Z",
+              "WhenOpened": "2025-09-12T19:39:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimedTask.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.cpp",
+              "RelativeDocumentMoniker": "Exercise 02\\TimedTask.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.cpp",
+              "RelativeToolTip": "Exercise 02\\TimedTask.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T19:28:33.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoodOrder.h",
-              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.h",
-              "RelativeDocumentMoniker": "Exercise 01\\FoodOrder.h",
-              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\FoodOrder.h",
-              "RelativeToolTip": "Exercise 01\\FoodOrder.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "TimedTask.h",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.h",
+              "RelativeDocumentMoniker": "Exercise 02\\TimedTask.h",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\TimedTask.h",
+              "RelativeToolTip": "Exercise 02\\TimedTask.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-05T21:18:42.328Z",
+              "WhenOpened": "2025-09-12T19:23:50.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "tester_1.cpp",
-              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\tester_1.cpp",
-              "RelativeDocumentMoniker": "Exercise 01\\tester_1.cpp",
-              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 01\\tester_1.cpp",
-              "RelativeToolTip": "Exercise 01\\tester_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAEwFMAAAAVAAAAAAAAAA==",
+              "Title": "ProteinDatabase.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.cpp",
+              "RelativeDocumentMoniker": "Exercise 02\\ProteinDatabase.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.cpp",
+              "RelativeToolTip": "Exercise 02\\ProteinDatabase.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T21:12:07.524Z",
+              "WhenOpened": "2025-09-12T19:27:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProteinDatabase.h",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.h",
+              "RelativeDocumentMoniker": "Exercise 02\\ProteinDatabase.h",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Exercises\\Exercise 02\\ProteinDatabase.h",
+              "RelativeToolTip": "Exercise 02\\ProteinDatabase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-12T19:19:28.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ce17ef58-8064-4e6e-84dc-dc53c74ff237",
+        "Display": 1,
+        "X": 82,
+        "Y": 119,
+        "Width": 1907,
+        "Height": 758,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main_copy_move_part2.cpp",
+              "DocumentMoniker": "C:\\Users\\total\\Desktop\\BTP305\\Inclass Lectures\\Week 02\\main_copy_move_part2.cpp",
+              "RelativeDocumentMoniker": "..\\Inclass Lectures\\Week 02\\main_copy_move_part2.cpp",
+              "ToolTip": "C:\\Users\\total\\Desktop\\BTP305\\Inclass Lectures\\Week 02\\main_copy_move_part2.cpp",
+              "RelativeToolTip": "..\\Inclass Lectures\\Week 02\\main_copy_move_part2.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T19:55:19.7Z",
               "EditorCaption": ""
             }
           ]
