@@ -1,0 +1,24 @@
+/*
+Reni Zani, rzani@myseneca.ca, 166082222
+Date Completed : N/A
+I declare that this submission is the result of my own work and
+I only copied the code that my professor provided to complete my assignments.
+This submitted piece of work has not been shared with any other student or 3rd party content provider.
+*/
+#ifndef SENECA_EVENT_H
+#define SENECA_EVENT_H
+#include <iostream>
+#include <string>
+#include <chrono>
+namespace seneca {
+	class Event {
+		std::string e_eventName;
+		std::chrono::nanoseconds e_duration;
+	public:
+		Event();
+		Event(const char*, const std::chrono::nanoseconds&);
+
+		friend std::ostream& operator<<(std::ostream&, const Event&);
+	};
+}
+#endif
