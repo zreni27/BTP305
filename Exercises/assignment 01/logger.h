@@ -1,6 +1,6 @@
 /*
 Reni Zani, rzani@myseneca.ca, 166082222
-Date Completed : N/A
+Date Completed : 2025/09/20
 I declare that this submission is the result of my own work and
 I only copied the code that my professor provided to complete my assignments.
 This submitted piece of work has not been shared with any other student or 3rd party content provider.
@@ -20,8 +20,8 @@ namespace seneca {
 
 		Logger();
 
-		Logger(Logger&&);
-		Logger& operator=(Logger&&);
+		Logger(Logger&&) noexcept;
+		Logger& operator=(Logger&&) noexcept;
 
 		void addEvent(const Event& event);
 		friend std::ostream& operator<<(std::ostream&, const Logger&);

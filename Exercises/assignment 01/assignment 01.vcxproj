@@ -132,15 +132,19 @@
     <None Include="english_small.csv" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="dictionary.cpp" />
     <ClCompile Include="event.cpp" />
     <ClCompile Include="settings.cpp" />
     <ClCompile Include="logger.cpp" />
     <ClCompile Include="tester_1.cpp" />
+    <ClCompile Include="timeMonitor.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="dictionary.h" />
     <ClInclude Include="event.h" />
     <ClInclude Include="logger.h" />
     <ClInclude Include="settings.h" />
+    <ClInclude Include="timeMonitor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
